@@ -1,0 +1,31 @@
+html, body {
+    background: linear-gradient(133deg, rgb(173, 173, 184) 22%, rgba(16,81,94,1) 85%);
+    background-repeat: no-repeat;
+    height: 100%;
+}
+.conteiner {
+    background: white;
+    width: 80%;
+    margin: auto;
+    padding: 1rem;
+}
+.h2 {
+    border-bottom: 1px solid;
+}
+.p1 {
+    border: 1px solid black;
+    padding: 1rem;
+}
+
+.table {
+    margin: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 50%;
+    text-align: center;
+}
+table tr td {
+    border: 1px solid black;
+}
+
+
